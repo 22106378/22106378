@@ -25,4 +25,4 @@ I hope to:
 ---
 
 Feel free to connect with me on GitHub:
-👉 https://github.com/**22106378**
+👉 https://github.com/22106378
